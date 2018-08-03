@@ -7,7 +7,7 @@ module.exports = function main() {
 };
 
 class Sequence {
-  constructor(input) {
+  constructor() {
     this.sequence=sequence;
   }
 
